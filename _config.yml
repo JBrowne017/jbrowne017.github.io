@@ -1,0 +1,21 @@
+title: Jackson Browne Portfolio Page
+author:
+  name: Jackson Browne
+  email: jacksonthomasbrowne@gmail.com
+description: > 
+  Jackson Browne's portfolio page.
+
+show_excerpts: false
+
+minima:
+  date_format: "%b %-d, %Y"
+
+social_links:
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jackson-thomas-browne/" }
+    - { platform: github,         user_url: "https://github.com/JBrowne017" }
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
